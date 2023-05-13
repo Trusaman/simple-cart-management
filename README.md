@@ -1,5 +1,5 @@
 
-# Untitled15
+# SIMPLE CART MANAGEMENT APP
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
